@@ -52,4 +52,5 @@ Para enriquecer as análises visuais e gerar valor executivo, foram desenvolvida
 
 ## 🖼️ Visualização do Dashboard
 
-![Demonstração do Dashboard](midia/preview.png)
+![Demonstração do Dashboard](pré-visualização.png)
+
